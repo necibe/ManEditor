@@ -1,0 +1,23 @@
+#genelcerceve{
+height:800px;
+width:1000px;
+
+}
+#sayfa1{
+float: left;
+height:700px;
+width:300px;
+background-color: green;
+}
+#sayfa2{
+float: left;
+height:700px;
+width:300px;
+background-color: purple;
+}
+#sayfa3{
+float: left;
+height:700px;
+width:300px;
+background-color: blue;
+}

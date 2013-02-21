@@ -2,12 +2,12 @@
 <head>
 <title>BASLIK</title>
 <style type="text/css"></style>
-<link href="man1.css" rel="stylesheet" type="text/css"/>
+<link href="man2.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <div id="genelcerceve">
 <div id="sayfa1">sayfa1</div>
-<div id="sayfa2">sayfa2</div>
+<div id="sayfa2"><textarea style="width: 300px; height: 700px; resize:none;">sayfa2</textarea></div>
 <div id="sayfa3">sayfa3</div>
 </div>
 </body>
